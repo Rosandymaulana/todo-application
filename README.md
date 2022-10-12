@@ -4,3 +4,5 @@
 
 Laravel adalah framework aplikasi web dengan sintaks yang ekspresif dan elegan. Kami percaya pengembangan harus menjadi pengalaman yang menyenangkan dan kreatif agar benar-benar memuaskan. Laravel menghilangkan rasa sakit dari pengembangan dengan mengurangi tugas-tugas umum yang digunakan di banyak proyek web.
 
+## Keunggulan Laravel
+
